@@ -1,0 +1,450 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 208,
+      "max": [
+        0.03821354731917381,
+        0.4671953618526459,
+        0.03821354731917381
+      ],
+      "min": [
+        -0.03821354731917381,
+        -0.10879649966955185,
+        -0.03821354731917381
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2496,
+      "componentType": 5126,
+      "count": 208,
+      "max": [
+        0.9999986886978149,
+        1.0,
+        0.9999986886978149
+      ],
+      "min": [
+        -0.9999986886978149,
+        -1.0,
+        -0.9999986886978149
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 208,
+      "max": [
+        0.9655060172080994,
+        0.4123159945011139
+      ],
+      "min": [
+        0.9238319993019104,
+        0.12372200191020966
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 528,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 4992,
+      "componentType": 5126,
+      "count": 234,
+      "max": [
+        2.132452964782715,
+        1.0249199867248535,
+        2.1324970722198486
+      ],
+      "min": [
+        -2.1324520111083984,
+        -1.0249199867248535,
+        -2.13240909576416
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 7800,
+      "componentType": 5126,
+      "count": 234,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1664,
+      "componentType": 5126,
+      "count": 234,
+      "max": [
+        0.993818998336792,
+        1.0684070587158203
+      ],
+      "min": [
+        0.012013999745249748,
+        0.016036000102758408
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 2112,
+      "componentType": 5125,
+      "count": 576,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 10608,
+      "componentType": 5126,
+      "count": 208,
+      "max": [
+        0.03821354731917381,
+        0.4671953618526459,
+        0.03821354731917381
+      ],
+      "min": [
+        -0.03821354731917381,
+        -0.10879649966955185,
+        -0.03821354731917381
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 13104,
+      "componentType": 5126,
+      "count": 208,
+      "max": [
+        0.9999986886978149,
+        1.0,
+        0.9999986886978149
+      ],
+      "min": [
+        -0.9999986886978149,
+        -1.0,
+        -0.9999986886978149
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3536,
+      "componentType": 5126,
+      "count": 208,
+      "max": [
+        0.9655060172080994,
+        0.4123159945011139
+      ],
+      "min": [
+        0.9238319993019104,
+        0.12372200191020966
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 4416,
+      "componentType": 5125,
+      "count": 528,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Poyo20 (https://sketchfab.com/poyo20)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/drum-and-sticks-1eec9fae62b8429883261edd8f0e9e00",
+      "title": "Drum and Sticks"
+    },
+    "generator": "Sketchfab-11.20.1",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 6528,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 5200,
+      "byteOffset": 6528,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 15600,
+      "byteOffset": 11728,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 27328,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Default-Material_baseColor.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Default-Material",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.7885257473118872
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Default-Material.002",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.47539505925128744
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "drumBita01_Default-Material_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "drum01.001_Default-Material.002_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "drumBita01.001_Default-Material_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "drumBita01.fbx"
+    },
+    {
+      "children": [
+        3,
+        5,
+        7
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        6.006438072395769e-05,
+        4.4163386462387974e-14,
+        -795.5768432617165,
+        0.0,
+        -593.8995543999018,
+        529.3636111576591,
+        -4.483816891339891e-05,
+        0.0,
+        529.3636111576575,
+        593.8995543999036,
+        3.996584082878632e-05,
+        0.0,
+        350.19287109375,
+        86.87156677246094,
+        0.0,
+        1.0
+      ],
+      "name": "drumBita01"
+    },
+    {
+      "mesh": 0,
+      "name": "drumBita01_Default-Material_0"
+    },
+    {
+      "children": [
+        6
+      ],
+      "matrix": [
+        100.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        99.9999999999999,
+        4.371138828673792e-06,
+        0.0,
+        0.0,
+        -4.371138828673792e-06,
+        99.9999999999999,
+        0.0,
+        0.0,
+        102.48999786376953,
+        0.0,
+        1.0
+      ],
+      "name": "drum01.001"
+    },
+    {
+      "mesh": 1,
+      "name": "drum01.001_Default-Material.002_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        -637.7391548157417,
+        7.5096870290104105,
+        475.578477803518,
+        0.0,
+        475.238649009215,
+        42.64302682625425,
+        636.6100921298613,
+        0.0,
+        -19.481917023795493,
+        794.3976905033875,
+        -38.66882162988172,
+        0.0,
+        -96.44446563720703,
+        214.25238037109375,
+        -106.87084197998047,
+        1.0
+      ],
+      "name": "drumBita01.001"
+    },
+    {
+      "mesh": 2,
+      "name": "drumBita01.001_Default-Material_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}
